@@ -8,7 +8,7 @@ public class GItPracticeThree {
 	}
 	
 	public int test(int x, int y, String message){
-		System.out.println(massage);
+		System.out.println(message);
 		int z = x+y;
 		return z;
 	}
